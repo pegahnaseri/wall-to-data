@@ -218,3 +218,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+# Generated scenes - reproducible from config + seed
+output/
+
